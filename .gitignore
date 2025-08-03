@@ -1,0 +1,4 @@
+resultados_fb_scraper_*.txt
+resultados_fb_scraper_*.json
+venv/
+__pycache__/
