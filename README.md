@@ -1,4 +1,4 @@
-# 📘 FB Advanced Scraper (Demo)
+# 📘 FB Advanced Scraper 
 
 **FB Advanced Scraper** es un script en **Python 3 + Selenium 4** que inicia sesión en Facebook con credenciales proporcionadas por el usuario y extrae información pública de un perfil o página:
 
